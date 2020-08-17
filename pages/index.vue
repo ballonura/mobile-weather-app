@@ -59,7 +59,7 @@ export default {
       currentTemp: "N/A",
       currentDescription: "N/A",
       openWeatherApiKey: "fd04924913e021e33cef6bd395238678",
-      openWeatherEndpoint: "http://api.openweathermap.org/data/2.5/weather?q="
+      openWeatherEndpoint: "https://api.openweathermap.org/data/2.5/weather?q="
     };
   },
   methods: {

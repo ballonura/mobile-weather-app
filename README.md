@@ -1,6 +1,15 @@
-# mobile-weather-app
+# Demo
 
-## Build Setup
+```bash
+https://cranky-sinoussi-38b8c2.netlify.app/
+```
+
+### Preview
+
+![Preview Mobile Weather App](https://i.ibb.co/fNmpgTK/1.png)
+![Preview Mobile Weather App](https://i.ibb.co/m9W14Y5/2.png)
+
+# Build Setup
 
 ```bash
 # install dependencies
@@ -16,5 +25,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
