@@ -1,7 +1,7 @@
 # Demo
 
 ```bash
-https://eager-hermann-726bfb.netlify.app/
+https://mobile-weather-app.vercel.app/
 ```
 
 ### Preview
